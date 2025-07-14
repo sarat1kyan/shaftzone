@@ -75,7 +75,7 @@ pie
     "Google Drive" : 35
     "Dropbox" : 25
     "OneDrive" : 20
-    "Box" : 15
+    "iCloud" : 15
     "Other" : 5
 ```
 
