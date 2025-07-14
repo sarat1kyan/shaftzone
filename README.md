@@ -26,10 +26,16 @@
 
 > **The world's first zero-storage cloud brokerage platform** - Unified access to all your cloud services with military-grade security and complete data privacy. We never store your files - we simply manage your existing cloud connections.
 
-## 🌐 Instant Access
+## 🌐 Instant Access To The Platform
 
-**[➡️ Access Live Platform](https://shaftzone.net)**  
+**[➡️ Access Will Be available Soon](https://shaftzone.net)**  
 No installation needed - start managing your cloud ecosystem in seconds!
+
+## 🌐 Instant Access To The Demo Platform
+
+**[➡️ Access Demo Platform Now](https://shaftzone.netlify.app/demo.html)**  
+See what you can get, and what you will lose without us!
+
 
 ## 🔐 Revolutionary Security Model
 
