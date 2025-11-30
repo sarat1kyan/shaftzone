@@ -16,24 +16,24 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Category](https://img.shields.io/badge/category-Cloud%20%7C%20Storage-red.svg)](https://github.com/sarat1kyan/shaftzone)
-[![Security Level](https://img.shields.io/badge/security-Enterprise%20Grade-brightgreen)](https://shaftzone.net/security)
-[![Data Policy](https://img.shields.io/badge/data%20policy-Zero%20Storage-ff69b4)](https://shaftzone.net/privacy)
+[![Security Level](https://img.shields.io/badge/security-Enterprise%20Grade-brightgreen)](https://shaftzone.com/security)
+[![Data Policy](https://img.shields.io/badge/data%20policy-Zero%20Storage-ff69b4)](https://shaftzone.com/privacy)
 [![Compliance](https://img.shields.io/badge/compliance-CIS%20%7C%20ISO27001%20%7C%20NIST%20%7C%20STIG%20%7C%20PCI--DSS-green.svg)](https://github.com/sarat1kyan/Terminus)
 [![Build Status](https://img.shields.io/badge/build-Stable%20%7C%20111075-brightgreen.svg)](https://github.com/sarat1kyan/Terminus)
-[![Uptime](https://img.shields.io/badge/uptime-99.99%25-brightgreen)](https://status.shaftzone.net)
-[![Platform](https://img.shields.io/badge/platform-Web%20|%20Desktop%20|%20Mobile-blue)](https://shaftzone.net/downloads)
+[![Uptime](https://img.shields.io/badge/uptime-99.99%25-brightgreen)](https://status.shaftzone.com)
+[![Platform](https://img.shields.io/badge/platform-Web%20|%20Desktop%20|%20Mobile-blue)](https://shaftzone.com/downloads)
 
 
 > **The world's first zero-storage cloud brokerage platform** - Unified access to all your cloud services with military-grade security and complete data privacy. We never store your files - we simply manage your existing cloud connections.
 
 ## 🌐 Instant Access To The Platform
 
-**[➡️ Access Will Be available Soon](https://shaftzone.net)**  
+**[➡️ Access Will Be available Soon](https://shaftzone.com)**  
 No installation needed - start managing your cloud ecosystem in seconds!
 
 ## 🌐 Instant Access To The Demo Platform
 
-**[➡️ Access Demo Platform Now](https://shaftzone.netlify.app/demo.html)**  
+**[➡️ Access Demo Platform Now](https://shaftzone.comlify.app/demo.html)**  
 See what you can get, and what you will lose without us!
 
 
@@ -106,7 +106,7 @@ pie
 
 ### Option 1: Cloud Hosted (Recommended)
 ```markdown
-1. Visit [shaftzone.net](https://shaftzone.net)
+1. Visit [shaftzone.com](https://shaftzone.com)
 2. Connect your cloud accounts
 3. Start managing immediately - no installation!
 ```
@@ -121,7 +121,7 @@ docker run -d \
   shaftzone/enterprise:latest
 
 # Kubernetes Deployment
-helm repo add shaftzone https://charts.shaftzone.net
+helm repo add shaftzone https://charts.shaftzone.com
 helm install my-shaftzone shaftzone/shaftzone-enterprise
 ```
 
@@ -264,11 +264,12 @@ flowchart LR
 
 ## 📬 Get Started Today
 
-1. **[Access Web Platform](https://shaftzone.net)** - Start immediately in your browser
-2. **[Download Desktop App](https://shaftzone.net/downloads)** - For Windows, macOS, Linux
-3. **[Enterprise Trial](https://shaftzone.net/enterprise-trial)** - 30-day premium evaluation
-4. **[Schedule Demo](https://shaftzone.net/demo)** - Personalized walkthrough
+1. **[Access Web Platform](https://shaftzone.com)** - Start immediately in your browser
+2. **[Download Desktop App](https://shaftzone.com/downloads)** - For Windows, macOS, Linux
+3. **[Enterprise Trial](https://shaftzone.com/enterprise-trial)** - 30-day premium evaluation
+4. **[Schedule Demo](https://shaftzone.com/demo)** - Personalized walkthrough
 
 ---
 
-**ShaftZone CloudSync Enterprise** - The only cloud brokerage platform with a **zero-storage guarantee**. We manage your cloud ecosystem without ever storing your data. Experience true data sovereignty at [shaftzone.net](https://shaftzone.net).
+**ShaftZone CloudSync Enterprise** - The only cloud brokerage platform with a **zero-storage guarantee**. We manage your cloud ecosystem without ever storing your data. Experience true data sovereignty at [shaftzone.com](https://shaftzone.com).
+
